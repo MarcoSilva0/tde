@@ -10,6 +10,10 @@ header {
     background: #2f3640;
 }
 
+h4 {
+    color: #fff0ff;
+}
+
 .hr-principal {
     border: 0;
     height: 2px;
